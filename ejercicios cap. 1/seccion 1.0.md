@@ -5,4 +5,10 @@ $$
 $$
 
 Los puntos fijos de este modelo son 
-$$ \x=0·\ $$ y $$ \x=1\ $$
+$$ 
+\x=0·\
+$$ 
+y 
+$$ 
+\x=1\ 
+$$
