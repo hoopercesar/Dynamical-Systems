@@ -12,4 +12,4 @@ $$
 
 donde $$\sigma = 10\$$, $$\rho = 28\$$ y $$\beta = \frac{8}{3}\$$ son los parámetros típicos que generan el atractor caótico.
 
-<img src="images/ro_14_15_16.gif" alt="Atractor de Lorenz" width="700">
+<img src="images/ro_14_15_16.gif" alt="Atractor de Lorenz" width="500">
