@@ -1,17 +1,13 @@
-## Ecuación de Lorenz
+# Sistema de Lorenz
 
-El sistema:
-$$\begin{cases}
-\dot{x} = \sigma(y - x) \\
-\dot{y} = x(\rho - z) - y \\
-\dot{z} = xy - \beta z
-\end{cases}$$
+El sistema de Lorenz es un modelo de ecuaciones diferenciales ordinarias que describe la convección atmosférica. Sus ecuaciones son:
 
-Condición para estabilidad del origen: $\rho < 1$ 
+$$
+\begin{cases}
+\dot{x} = \sigma (y - x) \\
+\dot{y} = x (\rho - z) - y \\
+\dot{z} = x y - \beta z
+\end{cases}
+$$
 
-✅ Esto funciona mejor:
-$$\begin{aligned}
-\dot{x} &= \sigma(y - x) \\
-\dot{y} &= x(\rho - z) - y \\
-\dot{z} &= xy - \beta z
-\end{aligned}$$
+donde \(\sigma = 10\), \(\rho = 28\) y \(\beta = \frac{8}{3}\) son los parámetros típicos que generan el atractor caótico.
