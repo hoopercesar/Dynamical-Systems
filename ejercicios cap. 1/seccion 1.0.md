@@ -1,2 +1,3 @@
-# ejercicios
-## Encontrar puntos fijos
+## Ejercicios
+### Encontrar puntos fijos
+
