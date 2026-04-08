@@ -7,4 +7,4 @@ $$\begin{cases}
 \dot{z} = xy - \beta z
 \end{cases}$$
 
-Condición para estabilidad del origen: $\rho < 1$
+Condición para estabilidad del origen: $\rho < 1$ 
