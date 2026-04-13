@@ -22,7 +22,7 @@ Se evalúa cada punto fijo en la derivada. $$\ f'(0) = -1 < 0 $$ . Éste es un a
 Analicemos el signo de $$\ f(x) $$ en los intervalos: 
 
 $$ 
-\(-∞, 0):    f(x) = x(x-1) > 0  →  x crece → 0
+\(-∞, 0):    f(x) = x(x-1) > 0  →  x text{crece} → 0
 $$
 
 $$ 
