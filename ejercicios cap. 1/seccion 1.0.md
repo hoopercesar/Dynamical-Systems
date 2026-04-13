@@ -13,6 +13,6 @@ $$
 Verificamos estabilidad con linealización: 
 
 $$
-\frac{d}{a} 
+\frac{df}{dx} = -1 + 2x 
 $$
 
