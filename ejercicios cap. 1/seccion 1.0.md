@@ -16,6 +16,6 @@ $$
 \frac{df}{dx} = f'(x) = -1 + 2x 
 $$
 
-Se evalúa cada punto fijo en la derivada. $$\ f'(0) = -1 < 0 $$ . Éste es un atractor. $$\ f'(1) = -1 + 2 = 1 > 0 $$. Éste es un repulsor. 
+Se evalúa cada punto fijo en la derivada. $$\ f'(0) = -1 < 0 $$ . Éste es un atractor. $$\ f'(1) = 1 > 0 $$. Éste es un repulsor. 
 
 
