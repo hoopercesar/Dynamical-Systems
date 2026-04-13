@@ -11,5 +11,8 @@ x = 0 \quad \text{y} \quad x = 1
 $$
 
 Verificamos estabilidad con linealización: 
-$$\frac{d}{a} $$
+
+$$
+\frac{d}{a} 
+$$
 
