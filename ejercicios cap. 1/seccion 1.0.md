@@ -16,3 +16,4 @@ $$
 \frac{df}{dx} = f'(x) = -1 + 2x 
 $$
 
+$$\ f'(0) = -1 < 0 $$ . Éste es un atractor. 
