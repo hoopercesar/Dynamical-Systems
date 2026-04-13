@@ -4,8 +4,6 @@ $$
 \dot{x} = -x+x^{2}\
 $$
 
-Se resuelve $$       f(x) = 0       $$ para obtener:
-
 Se resuelve la ecuación $$\   f(x) = 0   \$$ para obtener:
 
 $$
