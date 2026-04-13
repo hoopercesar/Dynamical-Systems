@@ -13,6 +13,6 @@ $$
 Verificamos estabilidad con linealización: 
 
 $$
-\frac{df}{dx} = f^'(x) = -1 + 2x 
+\frac{df}{dx} = f^{'}(x) = -1 + 2x 
 $$
 
